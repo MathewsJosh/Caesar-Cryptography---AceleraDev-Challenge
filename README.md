@@ -117,8 +117,8 @@ OBS: a API espera um arquivo sendo enviado como multipart/form-data, como se fos
 O resultado da submissão vai ser sua nota ou o erro correspondente. Você pode submeter quantas vezes achar necessário, mas a API não vai permitir mais de uma submissão por minuto.
 
 ** Repository owner: **
-Thiago Cedran Santos
-[https://github.com/thiagocdn](https://github.com/thiagocdn)
+Mathews Josh
+https://github.com/MathewsJosh
   
 
 # OBS
